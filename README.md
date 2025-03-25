@@ -1,1 +1,2 @@
-# Software-Engineer
+# Software-Engineering 
+This course focuses on planning and managing the development process. **Chapter 1** outlines essential details like the editors, business title, team name, roles, and project management strategy. **Chapter 2** covers requirement gathering, analysis, and modeling, including user/system requirements, scenarios, and effort estimation. Finally, **Chapter 3** and **Chapter 4** dive into system analysis, design, and the creation of various diagrams such as class, sequence, and deployment diagrams to guide the development process.
